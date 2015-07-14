@@ -1,4 +1,4 @@
-# Apanel-Alpha-RELEASE
+# Tecflare's PHP Hosting Control Panel
 This project is not using github! For helping you get a copy free.
 ##Get a Licence Key
 1. Go to tecflare.com/downloads
